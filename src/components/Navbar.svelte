@@ -16,7 +16,7 @@
 
 <style>
 	.container {
-		background-color: #4abdf2;
+		background-color: #3ebfff;
 		padding: 20px;
 		display: flex;
 		justify-content: space-between;
